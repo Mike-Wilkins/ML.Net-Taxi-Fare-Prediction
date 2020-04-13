@@ -1,6 +1,8 @@
 # ML.Net Taxi Fare Prediction
 
 ## NuGet Packages:
+Microsoft.ML
+Microsoft.ML.LightGbm
 
 
 * This simple application demonstrates how machine learning can be integrated into ASP.NET MVC projects using the ML.NET framework. 
